@@ -9,31 +9,32 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
----
+
 Leveraging various datasets —including the primary Global Country Information Dataset (2023), Global Data on Sustainable Energy, and the Global Missing Migrants Dataset— we will analyze key indicators across countries.  The main goal is to identify meaningful insights and trends related to economic, demographic, and environmental factors.
 The findings will support non-profit organization's mission by providing data-driven evidence to inform policy recommendations and raise public awareness about critical development challenges worldwide.
 
-![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
+![Q6-Chart](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/Charts/Q6.png)
 
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+To analyze and compare countries on key topics like economy, population, and CO₂ emissions, I got access to several datasets.
+- The main dataset is the 'Global Country Information Dataset', which contains 2023 data on economic, demographic, and environmental indicators.
+- 'Global Data on Sustainable Energy': This dataset provides a deeper look into how various countries have progressed on sustainable energy.
+- 'Global Missing Migrants Dataset': This dataset offers data on missing migrants globally.
+
+
 
 ### Tools
 
 - Excel - Data Cleaning
-  - [Download here](https://microsoft.com)
-- SQL Server - Data Analysis
-- PowerBI - Creating reports
+- PostgreSQL - Data Analysis
 
 
 ### Data Cleaning/Preparation
 
-In the initial data preparation phase, we performed the following tasks:
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+In the initial data preparation phase, we performed Data cleaning and formatting with Power Query in Microsoft Excel - before importing it in PostgreSQL.
+You can find cleaned datasets [here]()
 
 ### Exploratory Data Analysis
 
