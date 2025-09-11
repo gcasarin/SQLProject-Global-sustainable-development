@@ -5,11 +5,12 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Techniques used](#techniques-used)
-- [Data Cleaning and Preparation](#data-cleaning-and-Preparation)
+- [Techniques Used](#techniques-used)
+- [Data Cleaning & Preparation](#data-cleaning-&-Preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Techniques used](#techniques-used)
-- [Techniques used](#techniques-used)
+- [Analysis Results ](#analysis-results)
+- [Limitations](#limitations)
+- [Links & Sources](#links-&-sources)
 
 
 
@@ -38,7 +39,7 @@ To analyze and compare countries on key topics like economy, population, and COâ
 
 
 
-### Techniques used
+### Techniques Used
 
 - CTE (Common Table Expression)
 - Subqueries
@@ -48,7 +49,7 @@ To analyze and compare countries on key topics like economy, population, and COâ
 
 
   
-### Data Cleaning and Preparation
+### Data Cleaning & Preparation
 
 In the initial data preparation phase, we performed Data cleaning and formatting with Power Query in Microsoft Excel - before importing it in PostgreSQL.
 You can find cleaned datasets [[here]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/tree/main/Clean_datasets).
@@ -74,7 +75,7 @@ EDA involved exploring the data to answer key questions, such as:
   
 
 
-### Results/Findings
+### Analysis Results 
 
 The answers to the various analysis questions are within the [[SQL script]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/SQL_Project-Global_Sustainable_Developement.sql), at the end of each query used to extract the necessary data. The resulting charts/tables from the various queries are also stored in this [[folder]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/tree/main/Charts). 
 
