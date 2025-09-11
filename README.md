@@ -6,11 +6,11 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Techniques Used](#techniques-used)
-- [Data Cleaning & Preparation](#data-cleaning-&-Preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-Preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Analysis Results ](#analysis-results)
 - [Limitations](#limitations)
-- [Links & Sources](#links-&-sources)
+- [Links and Sources](#links-and-sources)
 
 
 
@@ -49,7 +49,7 @@ To analyze and compare countries on key topics like economy, population, and COâ
 
 
   
-### Data Cleaning & Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we performed Data cleaning and formatting with Power Query in Microsoft Excel - before importing it in PostgreSQL.
 You can find cleaned datasets [[here]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/tree/main/Clean_datasets).
@@ -87,7 +87,7 @@ Missing values spotted on 'Global Data on Sustainable Energy' dataset to be clea
 
 
 
-### Links & Sources
+### Links and Sources
 [SQL script](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/SQL_Project-Global_Sustainable_Developement.sql)
 
 [[Data Analytics Master-Start2Impact University]](https://www.start2impact.it/master/data-science-analytics/)
