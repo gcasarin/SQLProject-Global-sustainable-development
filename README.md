@@ -4,7 +4,14 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+- [Tools](#tools)
+- [Techniques used](#techniques-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-Preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Techniques used](#techniques-used)
+- [Techniques used](#techniques-used)
+
+
 
 ### Project Overview
 
@@ -12,6 +19,7 @@ Leveraging various datasets â€”including the primary Global Country Information 
 The findings will support non-profit organization's mission by providing data-driven evidence to inform policy recommendations and raise public awareness about critical development challenges worldwide.
 
 ![Q6-Chart](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/Charts/Q6.png)
+
 
 
 ### Data Sources
@@ -22,10 +30,12 @@ To analyze and compare countries on key topics like economy, population, and COâ
 - 'Global Missing Migrants Dataset': This dataset offers data on missing migrants globally.
 
 
+
 ### Tools
 
 - Excel - Data Cleaning
 - PostgreSQL - Data Analysis
+
 
 
 ### Techniques used
@@ -36,11 +46,13 @@ To analyze and compare countries on key topics like economy, population, and COâ
 - Window Functions (aggregate/ranking window functions)
 - Joins
 
+
   
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we performed Data cleaning and formatting with Power Query in Microsoft Excel - before importing it in PostgreSQL.
 You can find cleaned datasets [[here]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/tree/main/Clean_datasets).
+
 
 
 ### Exploratory Data Analysis
@@ -61,9 +73,11 @@ EDA involved exploring the data to answer key questions, such as:
 - ...
   
 
+
 ### Results/Findings
 
 The answers to the various analysis questions are within the [[SQL script]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/SQL_Project-Global_Sustainable_Developement.sql), at the end of each query used to extract the necessary data. The resulting charts/tables from the various queries are also stored in this [[folder]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/tree/main/Charts). 
+
 
 
 ### Limitations
@@ -71,6 +85,8 @@ The answers to the various analysis questions are within the [[SQL script]](http
 Missing values spotted on 'Global Data on Sustainable Energy' dataset to be cleaned.
 
 
-###Links & Sources
+
+### Links & Sources
 [SQL script](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/SQL_Project-Global_Sustainable_Developement.sql)
+
 [[Data Analytics Master-Start2Impact University]](https://www.start2impact.it/master/data-science-analytics/)
