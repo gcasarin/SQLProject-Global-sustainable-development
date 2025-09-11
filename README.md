@@ -79,7 +79,8 @@ EDA involved exploring the data to answer key questions, such as:
 
 The answers to the various analysis questions are within the [[SQL script]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/SQL_Project-Global_Sustainable_Developement.sql), at the end of each query used to extract the necessary data. The resulting charts/tables from the various queries are also stored in this [[folder]](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/tree/main/Charts). 
 
-
+![Q5-Chart](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/Charts/Q5.png)
+![Q13.2-Chart](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/Charts/Q13.2.png)
 
 ### Limitations
 
