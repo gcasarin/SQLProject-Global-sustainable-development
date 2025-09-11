@@ -34,15 +34,25 @@ To analyze and compare countries on key topics like economy, population, and CO�
 ### Data Cleaning/Preparation
 
 In the initial data preparation phase, we performed Data cleaning and formatting with Power Query in Microsoft Excel - before importing it in PostgreSQL.
-You can find cleaned datasets [here]()
+You can find cleaned datasets [here](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/tree/main/Clean_datasets)
+
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as:
+EDA involved exploring the data to answer key questions, such as:
 
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the peak sales periods?
+- Q1. "What are the top 10 countries that emitted the highest percentage of global CO₂ in 2023?"
+- Q2. "Is there a correlation between CO₂ emissions and the amount of agricultural land in a country?"
+- Q3. "Assessment of the impact of fossil fuel energy and clean energy (nuclear and renewables) on CO₂ emissions, averaged over the last 10 years."
+- ...
+- Q7. "Comparison between average GDP growth and average energy consumption per capita growth from 2000 to 2020."
+- ...
+- Q10. "Comparison of population aging between developed and developing countries."
+- ...
+- Q12. "Correlation between a country's economy and its healthcare situation."
+- ...
+- Q13.2 "Number of victims and missing migrants per year, divided by category."
+- ...
 
 ### Data Analysis
 
