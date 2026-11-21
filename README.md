@@ -30,6 +30,8 @@ To analyze and compare countries on key topics like economy, population, and COâ
 - 'Global Data on Sustainable Energy': This dataset provides a deeper look into how various countries have progressed on sustainable energy.
 - 'Global Missing Migrants Dataset': This dataset offers data on missing migrants globally.
 
+![general_info_schema](https://github.com/GabryGit/SQL-Project-Global-sustainable-development/blob/main/general_info_schema.jpg)
+
 
 
 ### Tools
