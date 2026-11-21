@@ -30,12 +30,7 @@ To analyze and compare countries on key topics like economy, population, and COâ
 - 'Global Data on Sustainable Energy': This dataset provides a deeper look into how various countries have progressed on sustainable energy.
 - 'Global Missing Migrants Dataset': This dataset offers data on missing migrants globally.
 
-<figure>
-  <img src="Charts/general_info_schema.jpg" alt="database schema">
-  <figcaption>*'Global Country Information' database schema*</figcaption>
-</figure>
-
-
+![database schema](Charts/general_info_schema.jpg)
 
 
 ### Tools
