@@ -31,6 +31,7 @@ To analyze and compare countries on key topics like economy, population, and COâ
 - 'Global Missing Migrants Dataset': This dataset offers data on missing migrants globally.
 
 ![(general_info_schema](https://github.com/gcasarin/SQLProject-Global-sustainable-development/blob/main/Charts/general_info_schema.jpg)
+*Figura 1 â€” 'Global Country Information' database schema*
 
 
 
